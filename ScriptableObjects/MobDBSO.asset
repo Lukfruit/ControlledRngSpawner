@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3ecf67ebd2f45b2a1e953c332662aa, type: 3}
+  m_Name: MobDBSO
+  m_EditorClassIdentifier: 
+  FodderMobs:
+  - {fileID: 4353919720483954176, guid: 5608049711f26422cbc70c47986565a9, type: 3}
+  EliteMobs:
+  - {fileID: 5248917109123318017, guid: 882557b1ceeff4d82942166ce3a178f0, type: 3}
+  ThreatMobs:
+  - {fileID: 1481351683210526556, guid: 4f38d396b1e4545c7be876771bf1bce5, type: 3}
+  myTexture: {fileID: 10309, guid: 0000000000000000f000000000000000, type: 0}
